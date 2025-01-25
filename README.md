@@ -41,7 +41,7 @@ ___
 The dataset was very dirty with many data quality issue. I downloaded the file and converted to Excel format where I cleaned it using different excel functions.
 ___
 
-[image alt]!()
+![image alt]()
 
 ## DATA VISUALIZATION AND ANALYSIS
 
