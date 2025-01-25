@@ -41,3 +41,35 @@ ___
 The dataset was very dirty with many data quality issue. I downloaded the file and converted to Excel format where I cleaned it using different excel functions.
 ___
 
+## DATA VISUALIZATION AND ANALYSIS
+
+___
+
+This dashboard has a single report page.
+
+___
+
+I am interested in finding out;
+* days with more crash
+*  crash severity
+*  primary contributions to crash
+*  crash trend over time
+
+___
+* days with more crash
+
+  ___
+
+*  crash severity
+
+  ___
+
+*  primary contributions to crash
+
+___
+
+*  crash trend over time
+___
+
+## CONCLUSION
+
