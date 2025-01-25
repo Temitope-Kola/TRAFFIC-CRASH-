@@ -20,6 +20,7 @@ I am interested in finding out;
 *  crash severity
 *  primary contributions to crash
 *  crash trend over time
+*  crashes by weather condition
 
 ___
 ## DATA SOURCING
@@ -64,6 +65,7 @@ I am interested in finding out;
 *  crash severity
 *  primary contributions to crash
 *  crash trend over time
+*  crash by weather condition
 
   But first a quick insight into the key performance indicators
 
@@ -118,5 +120,23 @@ ___
  The decrease may indicate improved safety measures or reduced travel volumes during certain periods (e.g., pandemic-related restrictions).
 ___
 
+* # crash by weather condtion
+
+![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/weahter%20condition.png?raw=true)
+
+* ## Insights:
+Clear weather accounts for 85% of crashes, while cloudy/overcast and rain conditions contribute 11% and 4%, respectively.
+
+
+* ## Observation:
+Most crashes happen under favorable weather conditions, suggesting factors other than weather (e.g., driver behavior, road conditions).
+___
+
 ## CONCLUSION
+
+To reduce traffic crashes and injuries:
+
+* Driver Behavior: Improve compliance through public education campaigns on signal adherence and defensive driving.
+* Traffic Signal Improvements: Enhance visibility and maintenance of traffic control devices.
+* Peak Traffic Management: Implement measures to alleviate congestion during rush hours, such as staggered work hours or better public transport options.
 
