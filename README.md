@@ -92,7 +92,7 @@ ___
 
 *  primary contributions to crash
 
-![imahe alt](
+![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/PRIM%20CONTRI.%20CAUSE.png?raw=true)
 
 ___
 
