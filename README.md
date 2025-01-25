@@ -53,7 +53,7 @@ ___
 
 ___
 
-![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/NEW%20DASHBOARD%20FOR%20TRAFFIC%20CRASH%20ANALYSIS.png?raw=true)
+![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/main%20traffic%20analysis%20dashboard.png?raw=true)
 ___
 
 This dashboard has a single report page.
