@@ -76,21 +76,46 @@ ___
 
  ___
 
-*  crash severity
+*  # crash severity
 
 ![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CRASH_SEVERITY.png?raw=true)
 
+* ## Insights:
+Majority of crashes (154,767) show no indication of injury, while others result in varying levels of harm.
+Severe injuries include 6,563 incapacitating injuries and 351 fatal cases.
+
+* ## Observation:
+  While most crashes are minor, the fatal and severe injury numbers highlight the need for safety interventions.
+
   ___
 
-*  primary contributions to crash
+* # primary contributions to crash
 
 ![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/PRIM%20CONTRI.%20CAUSE.png?raw=true)
 
+* ## Insights:
+The top contributors include:
+* Unable to determine: 58,310 incidents.
+* Failing to yield right-of-way: 42,909 incidents.
+* Following too closely: 19,074 incidents.
+
+  
+* ## Observation:
+* Driver behavior and decision-making are significant contributors to crashes, with "unable to determine" possibly indicating poor documentation or unclear causation.
+
+
 ___
 
-*  crash trend over time
+*  # crash trend over time
 
 ![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CRASHTREND%20OVERTIME.png?raw=true)
+
+* ## Insight:
+  There has been a fluctuating trend in crashes, with recent years showing a decline.
+
+  
+* ## Observation:
+ The decrease may indicate improved safety measures or reduced travel volumes during certain periods (e.g., pandemic-related restrictions).
 ___
 
 ## CONCLUSION
