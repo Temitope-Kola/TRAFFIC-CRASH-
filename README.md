@@ -62,6 +62,11 @@ I am interested in finding out;
 *  primary contributions to crash
 *  crash trend over time
 
+  But first a quick insight into the key performance indicators
+
+___
+![image alt]()
+
 ___
 * days with more crash
 
