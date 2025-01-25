@@ -61,7 +61,6 @@ This dashboard has a single report page.
 ___
 
 I am interested in finding out;
-* days with more crash
 *  crash severity
 *  primary contributions to crash
 *  crash trend over time
@@ -77,13 +76,6 @@ ___
 
  ___
 
- 
-* days with more crash
-
-![image alt]()
-
-  ___
-
 *  crash severity
 
 ![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CRASH_SEVERITY.png?raw=true)
@@ -98,7 +90,7 @@ ___
 
 *  crash trend over time
 
-![imahe alt](
+![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CRASHTREND%20OVERTIME.png?raw=true)
 ___
 
 ## CONCLUSION
