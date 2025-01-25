@@ -43,6 +43,8 @@ ___
 
 ![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/dirtdata.png?raw=true)
 
+![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CLEANED%20DATA.png?raw=true)
+
 ## DATA VISUALIZATION AND ANALYSIS
 
 ___
