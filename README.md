@@ -86,7 +86,7 @@ ___
 
 *  crash severity
 
-![imahe alt](
+![imahe alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CRASH_SEVERITY.png?raw=true)
 
   ___
 
