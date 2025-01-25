@@ -45,6 +45,10 @@ ___
 
 ![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/CLEANED%20DATA.png?raw=true)
 
+Most numeric data were stored as text but I was able to convert them to their appropriate formats, I was also able to detect  blanks and inconsitencies using Filter along side other complex functions in Excel.
+
+___
+
 ## DATA VISUALIZATION AND ANALYSIS
 
 ___
@@ -65,22 +69,36 @@ I am interested in finding out;
   But first a quick insight into the key performance indicators
 
 ___
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/KPIS.png?raw=true)
 
-___
+ Over 80,000 individuals sustained injuries, with crashes peaking at 5 PM. Fridays stand out as the day with the highest number of incidents, and traffic signals are the most commonly impacted control devices.
+
+ This highlights the need to stay extra cautious during these times and places.
+
+ ___
+
+ 
 * days with more crash
+
+![image alt]()
 
   ___
 
 *  crash severity
 
+![imahe alt](
+
   ___
 
 *  primary contributions to crash
 
+![imahe alt](
+
 ___
 
 *  crash trend over time
+
+![imahe alt](
 ___
 
 ## CONCLUSION
