@@ -1,4 +1,6 @@
 # TRAFFIC CRASH INSIGHT ANALYSIS
+![image alt](https://github.com/Temitope-Kola/TRAFFIC-CRASH-/blob/main/IMAGESS/traffic%20crash.jpg?raw=true)
+
 ___
 ## BY DEBORAH KOLA ADEMOLA
 
