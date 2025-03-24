@@ -29,7 +29,7 @@ ___
 
 ___
 
-This data is from [Kaggle](https://www.kaggle.com)
+This data is from [kaggle](https://www.kaggle.com)
 
 Link to [dataset](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents/data)
 
